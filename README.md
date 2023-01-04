@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 I work on several Natural Language Processing projects with DMLab and Daewoong Pharmaceutical.
 If you want to reach me out send me a message on Twitter!
 
+Sometimes, I upload models on [HuggingFace](https://huggingface.co/guialfaro)
+
 **About me:**
 - I play the bass in a band
 - I speak Spanish, English, & Korean
