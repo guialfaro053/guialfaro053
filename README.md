@@ -11,7 +11,8 @@ If you want to reach me out send me a message on Twitter!
 Sometimes, I upload models on [HuggingFace](https://huggingface.co/guialfaro).
 
 **About me:**
-- I play the bass in a band
+- I play bass in a band
 - I speak Spanish, English, & Korean
 - My pronouns are he / him
+- Trying to plaz kaizo levels 
 
