@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 I work on several Natural Language Processing projects with DMLab and Daewoong Pharmaceutical.
-If you want to reach me out send me a message on Twitter!
+If you want to reach me out send me a message at guillermo [dot] rivera [dot] 1e [at] gmail [dot] com
 
 Sometimes, I upload models on [HuggingFace.](https://huggingface.co/guialfaro)
 
